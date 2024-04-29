@@ -1,0 +1,20 @@
+.header {
+    background: black;
+}
+
+.nav {
+    display: flex;
+}
+
+.header__list {
+    width: 100%;
+    display: flex;
+    column-gap: 40px;
+    justify-content: center;
+}
+
+.header__list a {
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+}
